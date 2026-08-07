@@ -41,6 +41,12 @@ No futuro, pretendo ingressar em um curso de ensino superior voltado para Sistem
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
   />
+  <img  
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
   <img
     alt="Python"
     title="Python"
