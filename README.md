@@ -22,11 +22,17 @@
 <br><br>
 
 <a href="http://www.linkedin.com/in/gabriel-alves-silva-023b78283">
-<img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img
+  src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 </div>
@@ -165,18 +171,6 @@ Circuitos, componentes e integração entre hardware e software.
 />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  width="60"
-  height="60"
-  alt="JavaScript"
-  title="JavaScript"
-/>
-</a>
-
 <br><br>
 
 ### 🔌 Eletrônica & Sistemas Embarcados
@@ -196,13 +190,9 @@ Circuitos, componentes e integração entre hardware e software.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.espressif.com/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg"
-  width="60"
-  height="60"
-  alt="ESP32"
-  title="ESP32"
-/>
+<div style="display: inline-block; width: 60px; height: 60px; line-height: 60px; text-align: center; font-weight: bold; font-size: 16px; color: #E7352C;">
+ESP32
+</div>
 </a>
 
 <br><br>
@@ -268,7 +258,7 @@ Aprofundando meus conhecimentos em Python, lógica de programação e desenvolvi
 
 ### 🌐 Web Development
 
-Estudando HTML, CSS, JavaScript e conceitos relacionados ao desenvolvimento Web.
+Estudando HTML, CSS e conceitos relacionados ao desenvolvimento Web.
 
 </td>
 
