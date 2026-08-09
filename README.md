@@ -2,38 +2,23 @@
 
 # 👋 Gabriel
 
-### 💻 Desenvolvedor Python | 🌐 Web Developer | 🔌 Eletrônica | 🤖 Sistemas Embarcados
+### 💻 Desenvolvedor Python | 🌐 Web Developer | 🔌 Eletrônica | 🤖 Sistemas Embarcados | 🐧 Linux
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=750&lines=Desenvolvedor+Python+%F0%9F%90%8D;Estudante+de+Eletr%C3%B4nica+%F0%9F%94%8C;Apaixonado+por+Desenvolvimento+Web+%F0%9F%8C%90;Explorando+Sistemas+Embarcados+%F0%9F%A4%96;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python+🐍;Estudante+de+Eletrônica+🔌;Apaixonado+por+Desenvolvimento+Web+🌐;Explorando+Sistemas+Embarcados+🤖;Usuário+Linux+🐧;Programação+%2B+Eletrônica+%3D+❤️;while+True%3A+aprendendo%28%29+🐍;sudo+apt+install+conhecimento+🐧;Transformando+ideias+em+projetos+🚀"
   alt="Typing SVG"
 />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<br><br>
-
-<a href="http://www.linkedin.com/in/gabriel-alves-silva-023b78283">
-<img
-  src="https://img.shields.io/badge/LinkedIn-Gabriel%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-</a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </div>
 
@@ -41,9 +26,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! 👋 Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Desenvolvimento Web** e **Sistemas Embarcados**.
+Olá! 👋 Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Desenvolvimento Web**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
 
-Atualmente, curso o **Ensino Técnico em Eletrônica na Escola Técnica ETEC**, onde venho desenvolvendo conhecimentos tanto em **eletrônica** quanto em **tecnologia e programação**.
+Atualmente, curso o **Ensino Técnico em Eletrônica na ETEC**, onde venho desenvolvendo conhecimentos tanto em **eletrônica** quanto em **tecnologia e programação**.
 
 Tenho grande interesse em **Desenvolvimento Web**, principalmente pela possibilidade de transformar ideias em aplicações, sites e sistemas que possam ser utilizados por outras pessoas.
 
@@ -57,225 +42,129 @@ Também tenho grande interesse pela área de **Sistemas Embarcados**, pois ela u
 
 Além de Python, possuo conhecimentos básicos em **C++**, **Arduino** e **ESP32**, tecnologias que venho explorando em projetos relacionados a programação, eletrônica e sistemas embarcados.
 
----
+Também utilizo **Linux** como meu ambiente de desenvolvimento, explorando o terminal, ferramentas de programação e os recursos do sistema no meu dia a dia.
 
-## 🚀 Minhas áreas de interesse
+---
 
 <div align="center">
 
-<table>
+## 🚀 Áreas de Interesse
+
+</div>
+
+<table align="center">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="200">
 
 ### 🐍
 
-### Python
+**Python**
 
 Programação, lógica, automação e desenvolvimento de aplicações.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="200">
 
 ### 🌐
 
-### Web Dev
+**Web Development**
 
 Desenvolvimento de sites e aplicações para a Web.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="200">
 
 ### 🤖
 
-### Embarcados
+**Embarcados**
 
 Programação de microcontroladores e sistemas embarcados.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="200">
 
 ### 🔌
 
-### Eletrônica
+**Eletrônica**
 
 Circuitos, componentes e integração entre hardware e software.
 
 </td>
 
+<td align="center" width="200">
+
+### 🐧
+
+**Linux**
+
+Ambiente de desenvolvimento, terminal e ferramentas do sistema.
+
+</td>
+
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🧠 Tecnologias e ferramentas
-
 <div align="center">
+
+## 🧠 Tecnologias e Ferramentas
 
 ### 💻 Programação
 
-<br>
-
-<a href="https://www.python.org/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="60"
-  height="60"
-  alt="Python"
-  title="Python"
-/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://isocpp.org/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-  width="60"
-  height="60"
-  alt="C++"
-  title="C++"
-/>
-</a>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=python">
 
 ### 🌐 Desenvolvimento Web
 
-<br>
-
-<a href="https://developer.mozilla.org/docs/Web/HTML">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="60"
-  height="60"
-  alt="HTML5"
-  title="HTML5"
-/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/CSS">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="60"
-  height="60"
-  alt="CSS3"
-  title="CSS3"
-/>
-</a>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css">
 
 ### 🔌 Eletrônica & Sistemas Embarcados
 
-<br>
+<img src="https://skillicons.dev/icons?i=arduino,cpp">
 
-<a href="https://www.arduino.cc/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-  width="60"
-  height="60"
-  alt="Arduino"
-  title="Arduino"
-/>
-</a>
+### 🐧 Sistema Operacional
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.espressif.com/">
-<div style="display: inline-block; width: 60px; height: 60px; line-height: 60px; text-align: center; font-weight: bold; font-size: 16px; color: #E7352C;">
-ESP32
-</div>
-</a>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=linux">
 
 ### 🧰 Ferramentas
 
-<br>
-
-<a href="https://code.visualstudio.com/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  width="60"
-  height="60"
-  alt="Visual Studio Code"
-  title="Visual Studio Code"
-/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.jetbrains.com/pycharm/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
-  width="60"
-  height="60"
-  alt="PyCharm"
-  title="PyCharm"
-/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  width="60"
-  height="60"
-  alt="Git"
-  title="Git"
-/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
-
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🐍 Python
-
-Aprofundando meus conhecimentos em Python, lógica de programação e desenvolvimento de aplicações.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Web Development
-
-Estudando HTML, CSS e conceitos relacionados ao desenvolvimento Web.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Sistemas Embarcados
-
-Explorando Arduino, ESP32, C++ e a integração entre software e hardware.
-
-</td>
-
-</tr>
-</table>
+## 📚 Atualmente Estudando
 
 </div>
 
-<br>
+### 🐍 Python
+
+Aprofundando meus conhecimentos em Python, lógica de programação, automação e desenvolvimento de aplicações.
+
+### 🌐 Web Development
+
+Estudando **HTML**, **CSS** e conceitos relacionados ao desenvolvimento Web.
+
+### 🐧 Linux
+
+Aprimorando meus conhecimentos em Linux, terminal, ferramentas de desenvolvimento e utilização do sistema no dia a dia.
+
+### 🤖 Sistemas Embarcados
+
+Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e hardware.
+
+---
+
+<div align="center">
+
+## 📊 Conhecimentos
 
 ```text
 🐍 Python
@@ -293,5 +182,82 @@ Explorando Arduino, ESP32, C++ e a integração entre software e hardware.
 ⚙️ C++
 ██████████░░░░░░░░░░ 50%
 
+🐧 Linux
+██████████████░░░░░░ 70%
+
 🤖 Sistemas Embarcados
 █████████░░░░░░░░░░░ 45%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Objetivos
+
+🚀 Evoluir cada vez mais como desenvolvedor
+
+🐍 Aprofundar meus conhecimentos em Python
+
+🌐 Desenvolver aplicações Web
+
+🐧 Aprimorar meus conhecimentos em Linux
+
+🤖 Criar projetos com ESP32 e Arduino
+
+🔌 Desenvolver projetos unindo programação e eletrônica
+
+📚 Continuar aprendendo novas tecnologias
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Projetos
+
+</div>
+
+Estou constantemente estudando e desenvolvendo projetos para colocar meus conhecimentos em prática, principalmente nas áreas de:
+
+- 🐍 Python
+- 🌐 Desenvolvimento Web
+- 🤖 Sistemas Embarcados
+- 🔌 Eletrônica
+- 🐧 Linux
+- ⚙️ Automação
+
+---
+
+<div align="center">
+
+## 📫 Contato
+
+<br>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-alves-silva-023b78283/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo, sempre construindo.
+
+**"Transformando ideias em código, circuitos e projetos."**
+
+<br>
+
+🐍 💻 🔌 🤖 🐧
+
+</div>
