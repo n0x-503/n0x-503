@@ -39,11 +39,6 @@ A Faculdade que desejo fazer é de engenharia mecânica ou de software, me plano
 
 </div>
 
-Além de Python, possuo conhecimentos básicos em **C++**, **Arduino** e **ESP32**, tecnologias que venho explorando em projetos relacionados a programação, eletrônica e sistemas embarcados.
-
-Também utilizo **Linux** como meu ambiente de desenvolvimento, explorando o terminal, ferramentas de programação e os recursos do sistema no meu dia a dia.
-
----
 
 <div align="center">
 
