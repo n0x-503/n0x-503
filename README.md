@@ -7,15 +7,13 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Eletronica;Apaixonado+por+Desenvolvimento+Web;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;sudo+apt+install+conhecimento;Transformando+ideias+em+projetos"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;sudo+apt+install+conhecimento;Transformando+ideias+em+projetos"
   alt="Typing SVG"
 />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -30,11 +28,14 @@ Olá! 👋 Meu nome é **Gabriel** e sou estudante de programação, com foco pr
 
 Atualmente, curso o **Ensino Técnico em Eletrônica na ETEC**, onde venho desenvolvendo conhecimentos tanto em **eletrônica** quanto em **tecnologia e programação**.
 
-Tenho grande interesse em **Sistemas embarcados**, Eu gosto de sistemas embarcados porque eles unem eletrônica e programação, duas áreas que me interessam bastante. Além disso, essa área oferece oportunidades em diversos setores da indústria, permitindo trabalhar no desenvolvimento e na programação de sistemas embarcados para veículos, aeronaves e outros equipamentos tecnológicos. Também é uma área que pode abrir portas para oportunidades profissionais no exterior.
+Tenho grande interesse em **Sistemas embarcados**, Eu gosto de sistemas embarcados porque eles unem eletrônica e programação, duas áreas que me interessam bastante. Além disso, essa área oferece oportunidades em diversos setores da indústria, permitindo trabalhar no desenvolvimento e na programação de sistemas embarcados para veículos, aeronaves(Sonho) e outros equipamentos tecnológicos. Também é uma área que pode abrir portas para oportunidades profissionais no exterior.
 
 <div align="center">
 
-### 💻 Programação + 🔌 Eletrônica
+### Faculdade que desejo fazer : 
+
+A Faculdade que desejo fazer é de engenharia mecânica ou de software, me plano e fazer uma especialização fora do país e trabalhar na indústria de eletrônicos :
+
 
 </div>
 
