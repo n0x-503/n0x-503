@@ -32,12 +32,6 @@ Tenho grande interesse em **Sistemas embarcados**, Eu gosto de sistemas embarcad
 
 <div align="center">
 
-### Faculdade que desejo fazer : 
-
-A Faculdade que desejo fazer é de engenharia mecânica ou de software, me plano e fazer uma especialização fora do país e trabalhar na indústria de eletrônicos :
-
-
-</div>
 
 
 <div align="center">
@@ -155,14 +149,11 @@ Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e har
 🔌 Eletrônica
 ███████████████░░░░░ 75%
 
-⚙️ C++
-██████████░░░░░░░░░░ 50%
-
 🐧 Linux
 ██████████████░░░░░░ 70%
 
 🤖 Sistemas Embarcados
-█████████░░░░░░░░░░░ 45%
+████████████░░░░░░░░ 60%
 ```
 
 </div>
@@ -173,38 +164,22 @@ Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e har
 
 ## 🎯 Objetivos
 
-🚀 Evoluir cada vez mais como desenvolvedor
+🎓 Cursar uma graduação de excelência na área de Engenharia ou Tecnologia
 
-🐍 Aprofundar meus conhecimentos em Python
+🌎 Realizar parte da minha formação acadêmica no exterior
 
-🐧 Aprimorar meus conhecimentos em Linux
+💻 Construir uma carreira sólida na área de programação e tecnologia
 
-🤖 Criar projetos com ESP32 e Arduino
+🎓 Fazer um mestrado voltado para Computação, Engenharia de Software ou Sistemas Embarcados
 
-🔌 Desenvolver projetos unindo programação e eletrônica
+✈️ Conquistar uma oportunidade profissional no exterior
 
-📚 Continuar aprendendo novas tecnologias
+🚀 Trabalhar no desenvolvimento de tecnologias e sistemas inovadores em empresas de referência
 
 </div>
 
 ---
 
-<div align="center">
-
-## 💡 Projetos
-
-</div>
-
-Estou constantemente estudando e desenvolvendo projetos para colocar meus conhecimentos em prática, principalmente nas áreas de:
-
-- 🐍 Python
-- 🌐 Desenvolvimento Web
-- 🤖 Sistemas Embarcados
-- 🔌 Eletrônica
-- 🐧 Linux
-- ⚙️ Automação
-
----
 
 <div align="center">
 
