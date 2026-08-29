@@ -2,7 +2,7 @@
 
 # 👋 Gabriel
 
-### 💻 Desenvolvedor Python | 🌐 Web Developer | 🔌 Eletrônica | 🤖 Sistemas Embarcados | 🐧 Linux
+### 💻 Desenvolvedor Python | 🔌 Eletrônica | 🤖 Sistemas Embarcados | 🐧 Linux
 
 <br>
 
@@ -26,13 +26,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! 👋 Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Desenvolvimento Web**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
+Olá! 👋 Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
 
 Atualmente, curso o **Ensino Técnico em Eletrônica na ETEC**, onde venho desenvolvendo conhecimentos tanto em **eletrônica** quanto em **tecnologia e programação**.
 
-Tenho grande interesse em **Desenvolvimento Web**, principalmente pela possibilidade de transformar ideias em aplicações, sites e sistemas que possam ser utilizados por outras pessoas.
-
-Também tenho grande interesse pela área de **Sistemas Embarcados**, pois ela une duas áreas pelas quais sou apaixonado:
+Tenho grande interesse em **Sistemas embarcados**, Eu gosto de sistemas embarcados porque eles unem eletrônica e programação, duas áreas que me interessam bastante. Além disso, essa área oferece oportunidades em diversos setores da indústria, permitindo trabalhar no desenvolvimento e na programação de sistemas embarcados para veículos, aeronaves e outros equipamentos tecnológicos. Também é uma área que pode abrir portas para oportunidades profissionais no exterior.
 
 <div align="center">
 
@@ -65,15 +63,6 @@ Programação, lógica, automação e desenvolvimento de aplicações.
 
 </td>
 
-<td align="center" width="200">
-
-### 🌐
-
-**Web Development**
-
-Desenvolvimento de sites e aplicações para a Web.
-
-</td>
 
 <td align="center" width="200">
 
@@ -118,9 +107,6 @@ Ambiente de desenvolvimento, terminal e ferramentas do sistema.
 
 <img src="https://skillicons.dev/icons?i=python">
 
-### 🌐 Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css">
 
 ### 🔌 Eletrônica & Sistemas Embarcados
 
@@ -148,9 +134,6 @@ Ambiente de desenvolvimento, terminal e ferramentas do sistema.
 
 Aprofundando meus conhecimentos em Python, lógica de programação, automação e desenvolvimento de aplicações.
 
-### 🌐 Web Development
-
-Estudando **HTML**, **CSS** e conceitos relacionados ao desenvolvimento Web.
 
 ### 🐧 Linux
 
@@ -169,9 +152,6 @@ Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e har
 ```text
 🐍 Python
 ████████████████░░░░ 80%
-
-🌐 Web Development
-██████████████░░░░░░ 70%
 
 🧠 Lógica de Programação
 ██████████████░░░░░░ 70%
@@ -200,8 +180,6 @@ Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e har
 🚀 Evoluir cada vez mais como desenvolvedor
 
 🐍 Aprofundar meus conhecimentos em Python
-
-🌐 Desenvolver aplicações Web
 
 🐧 Aprimorar meus conhecimentos em Linux
 
