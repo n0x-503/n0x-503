@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;sudo+apt+install+conhecimento;Transformando+ideias+em+projetos"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;sudo+apt+install+Vida+Social;Transformando+ideias+em+projetos"
   alt="Typing SVG"
 />
 
