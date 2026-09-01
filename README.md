@@ -26,7 +26,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
+Olá! Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Java**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
 
 Atualmente, curso o **Ensino Técnico em Eletrônica na ETEC**, onde venho desenvolvendo conhecimentos em eletrônica, programação e tecnologia.
 
@@ -88,7 +88,7 @@ Ambiente de desenvolvimento, terminal e ferramentas do sistema.
 
 ### Programação
 
-<img src="https://skillicons.dev/icons?i=python">
+<img src="https://skillicons.dev/icons?i=python,java">
 
 ### Eletrônica e Sistemas Embarcados
 
@@ -100,9 +100,10 @@ Ambiente de desenvolvimento, terminal e ferramentas do sistema.
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea">
 
 </div>
+
 
 ---
 
