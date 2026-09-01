@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Aprendendo+Java;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;Transformando+ideias+em+projetos"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Aprendendo+Java;while+True%3A+aprendendo%28%29"
   alt="Typing SVG"
 />
 
