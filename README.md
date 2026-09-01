@@ -2,23 +2,25 @@
 
 # Gabriel
 
-### Desenvolvedor Python | Eletrônica | Sistemas Embarcados | Linux
+### Desenvolvedor Python | Java | Eletrônica | Sistemas Embarcados | Linux
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;Transformando+ideias+em+projetos"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Programacao+%2B+Eletronica+%3D+Love;while+True%3A+aprendendo%28%29;Transformando+ideias+em+projetos"
   alt="Typing SVG"
 />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </div>
+
 
 ---
 
@@ -129,7 +131,7 @@ Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e har
 ## Conhecimentos
 
 ```text
-Python
+Python e Java
 ████████████████░░░░ 80%
 
 Lógica de Programação
