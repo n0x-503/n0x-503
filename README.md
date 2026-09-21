@@ -47,7 +47,7 @@ Meu objetivo é atuar no desenvolvimento de **sistemas embarcados de alta confia
 
 <div align="center">
 
-## ÁREAS DE ATUAÇÃO
+## ÁREAS DE ESTUDOS
 
 <table>
 
