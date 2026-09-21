@@ -1,81 +1,105 @@
 <div align="center">
 
-# Gabriel
+# GABRIEL
 
-### Desenvolvedor Python | Java | Eletrônica | Sistemas Embarcados | Linux
+### `PYTHON` · `JAVA` · `ELETRÔNICA` · `EMBEDDED SYSTEMS` · `LINUX`
 
 <br>
 
+<img src="https://tenor.com/pt-BR/view/anime-gif-4933716246481518559" width="750">
+
+<br><br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletronica;Explorando+Sistemas+Embarcados;Usuario+Linux;Aprendendo+Java;while+True%3A+aprendendo%28%29"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletr%C3%B4nica;Sistemas+Embarcados;Usu%C3%A1rio+Linux;Construindo.+Testando.+Aprendendo."
   alt="Typing SVG"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Arduino-0D0D0D?style=for-the-badge&logo=arduino&logoColor=8B0000">
+<img src="https://img.shields.io/badge/ESP32-0D0D0D?style=for-the-badge&logo=espressif&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=8B0000">
 
 </div>
-
-
----
-
-## Sobre mim
-
-Olá! Meu nome é **Gabriel** e sou estudante de programação, com foco principalmente em **Python**, **Java**, **Sistemas Embarcados**, **Eletrônica** e **Linux**.
-
-Atualmente, curso o **Ensino Técnico em Eletrônica na ETEC**, onde venho desenvolvendo conhecimentos em eletrônica, programação e tecnologia.
-
-Tenho grande interesse em **Sistemas Embarcados**, principalmente pela possibilidade de unir programação e eletrônica no desenvolvimento de soluções reais.
-
-Essa área me interessa especialmente por suas aplicações em diferentes setores da indústria, como automotivo, aeroespacial e tecnologia. Tenho como objetivo, no futuro, trabalhar com o desenvolvimento e programação de sistemas embarcados e buscar oportunidades profissionais também no exterior.
 
 ---
 
 <div align="center">
 
-## Áreas de Interesse
+## SOBRE MIM
 
-<table align="center">
+</div>
+
+<div align="center">
+
+> **"O caminho é longo. Continue andando."**
+
+</div>
+
+Olá. Meu nome é **Gabriel**.
+
+Sou estudante de **programação e eletrônica**, atualmente cursando **Técnico em Eletrônica na ETEC**.
+
+Meu foco está principalmente em:
+
+- Python
+- Java
+- Eletrônica
+- Sistemas Embarcados
+- Linux
+- Microcontroladores
+
+Tenho grande interesse na união entre **software e hardware**, principalmente através de sistemas embarcados.
+
+Meu objetivo é aprofundar meus conhecimentos em programação e eletrônica e, futuramente, trabalhar com o desenvolvimento de **sistemas embarcados para aplicações reais**, incluindo áreas industriais, automotivas e aeroespaciais.
+
+---
+
+<div align="center">
+
+## ÁREAS DE INTERESSE
+
+<table>
+
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-### Python
+<h3>PYTHON</h3>
 
 Programação, lógica, automação e desenvolvimento de aplicações.
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-### Sistemas Embarcados
+<h3>JAVA</h3>
 
-Programação de microcontroladores e desenvolvimento de sistemas embarcados.
-
-</td>
-
-<td align="center" width="200">
-
-### Eletrônica
-
-Circuitos, componentes e integração entre hardware e software.
+Programação orientada a objetos e desenvolvimento de aplicações.
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
-### Linux
+<h3>ELETRÔNICA</h3>
 
-Ambiente de desenvolvimento, terminal e ferramentas do sistema.
+Circuitos, componentes, sensores e integração de hardware.
+
+</td>
+
+<td align="center" width="220">
+
+<h3>EMBEDDED</h3>
+
+Microcontroladores, firmware e sistemas embarcados.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -84,56 +108,104 @@ Ambiente de desenvolvimento, terminal e ferramentas do sistema.
 
 <div align="center">
 
-## Tecnologias e Ferramentas
+## TECNOLOGIAS
 
-### Programação
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,java">
+### PROGRAMMING
 
-### Eletrônica e Sistemas Embarcados
+<img src="https://skillicons.dev/icons?i=python,java,cpp">
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp">
+<br><br>
 
-### Sistema Operacional
+### EMBEDDED & ELECTRONICS
+
+<img src="https://skillicons.dev/icons?i=arduino">
+
+<br><br>
+
+### SYSTEM
 
 <img src="https://skillicons.dev/icons?i=linux">
 
-### Ferramentas
+<br><br>
+
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea">
 
 </div>
 
-
 ---
 
 <div align="center">
 
-## Atualmente Estudando
+## CURRENTLY LEARNING
 
 </div>
 
-### Python
+<div align="center">
 
-Aprofundando meus conhecimentos em Python, lógica de programação, automação e desenvolvimento de aplicações.
+<table>
 
-### Linux
+<tr>
 
-Aprimorando meus conhecimentos em Linux, terminal, ferramentas de desenvolvimento e utilização do sistema no dia a dia.
+<td width="300">
 
-### Sistemas Embarcados
+### PYTHON
 
-Explorando **Arduino**, **ESP32**, **C++** e a integração entre software e hardware.
+Aprofundando conhecimentos em Python, lógica, automação e desenvolvimento.
+
+</td>
+
+<td width="300">
+
+### JAVA
+
+Estudando Java, orientação a objetos e desenvolvimento de aplicações.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="300">
+
+### LINUX
+
+Terminal, ferramentas de desenvolvimento e utilização do sistema.
+
+</td>
+
+<td width="300">
+
+### EMBEDDED
+
+Arduino, ESP32, C++ e integração entre software e hardware.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-## Conhecimentos
+## KNOWLEDGE
+
+<br>
 
 ```text
-Python e Java
+Python
 ████████████████░░░░ 80%
+
+Java
+████████████░░░░░░░░ 60%
 
 Lógica de Programação
 ██████████████░░░░░░ 70%
