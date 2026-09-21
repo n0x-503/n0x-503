@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://tenor.com/pt-BR/view/anime-gif-4933716246481518559" width="750">
+<img src="https://tenor.com" width="750" alt="Anime GIF">
 
 <br><br>
 
