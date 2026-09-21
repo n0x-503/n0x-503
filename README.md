@@ -10,10 +10,8 @@
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=850&lines=Desenvolvedor+Python;Estudante+de+Java;Estudante+de+Eletr%C3%B4nica;Sistemas+Embarcados;Usu%C3%A1rio+Linux;Construindo.+Testando.+Aprendendo."
-  alt="Typing SVG"
-/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyejh1Y3JnZ3lyeW8yeXh6eGhmcjRpZmhwZWRuejIxNWhhaDhjNmR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ijXlYmMiUZzqIyz1S/giphy.gif" width="750" alt="Anime GIF">
+
 
 <br><br>
 
