@@ -6,20 +6,15 @@
 
 <br>
 
-<img src="https://tenor.com" width="750" alt="Anime GIF">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyejh1Y3JnZ3lyeW8yeXh6eGhmcjRpZmhwZWRuejIxNWhhaDhjNmR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ijXlYmMiUZzqIyz1S/giphy.gif" width="750" alt="Guts Berserk GIF">
 
 <br><br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyejh1Y3JnZ3lyeW8yeXh6eGhmcjRpZmhwZWRuejIxNWhhaDhjNmR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ijXlYmMiUZzqIyz1S/giphy.gif" width="750" alt="Anime GIF">
-
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=8B0000">
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=8B0000">
-<img src="https://img.shields.io/badge/Arduino-0D0D0D?style=for-the-badge&logo=arduino&logoColor=8B0000">
-<img src="https://img.shields.io/badge/ESP32-0D0D0D?style=for-the-badge&logo=espressif&logoColor=8B0000">
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=8B0000">
+<img src="https://img.shields.io/badge/ESP32-050505?style=for-the-badge&logo=espressif&logoColor=8B0000">
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=8B0000">
 
 </div>
 
@@ -33,32 +28,26 @@
 
 <div align="center">
 
-> **"O caminho é longo. Continue andando."**
+> *"Neste mundo, o destino da humanidade é controlado por alguma entidade ou lei transcendental? Pelo menos é verdade que o homem não tem controle nem sobre sua própria vontade."* — **Kentaro Miura**
 
 </div>
 
-Olá. Meu nome é **Gabriel**.
+Meu nome é **Gabriel**. Estudo a área de desenvolvimento de software e engenharia de hardware.
 
-Sou estudante de **programação e eletrônica**, atualmente cursando **Técnico em Eletrônica na ETEC**.
+Atualmente cursando **Técnico em Eletrônica na ETEC**, com foco em sistemas embarcados, arquitetura de sistemas e controle de hardware.
 
-Meu foco está principalmente em:
+**Áreas Principais:**
+- Python, Java e C++
+- Ambientes Linux e Linha de Comando
+- Eletrônica, Microcontroladores e Sistemas Embarcados (ESP32, Arduino)
 
-- Python
-- Java
-- Eletrônica
-- Sistemas Embarcados
-- Linux
-- Microcontroladores
-
-Tenho grande interesse na união entre **software e hardware**, principalmente através de sistemas embarcados.
-
-Meu objetivo é aprofundar meus conhecimentos em programação e eletrônica e, futuramente, trabalhar com o desenvolvimento de **sistemas embarcados para aplicações reais**, incluindo áreas industriais, automotivas e aeroespaciais.
+Meu objetivo é atuar no desenvolvimento de **sistemas embarcados de alta confiabilidade** para aplicações industriais, automotivas e aeroespaciais.
 
 ---
 
 <div align="center">
 
-## ÁREAS DE INTERESSE
+## ÁREAS DE ATUAÇÃO
 
 <table>
 
@@ -66,33 +55,33 @@ Meu objetivo é aprofundar meus conhecimentos em programação e eletrônica e, 
 
 <td align="center" width="220">
 
-<h3>PYTHON</h3>
+### PYTHON
 
-Programação, lógica, automação e desenvolvimento de aplicações.
-
-</td>
-
-<td align="center" width="220">
-
-<h3>JAVA</h3>
-
-Programação orientada a objetos e desenvolvimento de aplicações.
+Desenvolvimento de aplicações, automação de tarefas e lógica de sistemas.
 
 </td>
 
 <td align="center" width="220">
 
-<h3>ELETRÔNICA</h3>
+### JAVA
 
-Circuitos, componentes, sensores e integração de hardware.
+Programação orientada a objetos, arquiteturas robustas e desenvolvimento backend.
 
 </td>
 
 <td align="center" width="220">
 
-<h3>EMBEDDED</h3>
+### ELETRÔNICA
 
-Microcontroladores, firmware e sistemas embarcados.
+Projetos de circuitos, instrumentação, análise de sinal e sensores.
+
+</td>
+
+<td align="center" width="220">
+
+### EMBEDDED
+
+Desenvolvimento de firmware, sistemas de tempo real e protocolos de comunicação.
 
 </td>
 
@@ -106,31 +95,31 @@ Microcontroladores, firmware e sistemas embarcados.
 
 <div align="center">
 
-## TECNOLOGIAS
+## TECNOLOGIAS E FERRAMENTAS
 
 <br>
 
-### PROGRAMMING
+### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp">
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark">
 
 <br><br>
 
 ### EMBEDDED & ELECTRONICS
 
-<img src="https://skillicons.dev/icons?i=arduino">
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark">
 
 <br><br>
 
-### SYSTEM
+### OPERATING SYSTEM
 
-<img src="https://skillicons.dev/icons?i=linux">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark">
 
 <br><br>
 
-### TOOLS
+### DEVELOPMENT TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark">
 
 </div>
 
@@ -138,11 +127,7 @@ Microcontroladores, firmware e sistemas embarcados.
 
 <div align="center">
 
-## CURRENTLY LEARNING
-
-</div>
-
-<div align="center">
+## EM APRENDIZADO
 
 <table>
 
@@ -151,16 +136,14 @@ Microcontroladores, firmware e sistemas embarcados.
 <td width="300">
 
 ### PYTHON
-
-Aprofundando conhecimentos em Python, lógica, automação e desenvolvimento.
+Aprofundando em arquitetura de código, otimização de desempenho e automação avançada.
 
 </td>
 
 <td width="300">
 
 ### JAVA
-
-Estudando Java, orientação a objetos e desenvolvimento de aplicações.
+Estudando padrões de projeto, concorrência e estrutura de aplicações complexas.
 
 </td>
 
@@ -171,16 +154,14 @@ Estudando Java, orientação a objetos e desenvolvimento de aplicações.
 <td width="300">
 
 ### LINUX
-
-Terminal, ferramentas de desenvolvimento e utilização do sistema.
+Administração de sistema, navegação via terminal, shell scripting e utilização de ferramentas.
 
 </td>
 
 <td width="300">
 
 ### EMBEDDED
-
-Arduino, ESP32, C++ e integração entre software e hardware.
+Programação em C++, plataformas ESP32/Arduino, integração de componentes e controle de registradores.
 
 </td>
 
@@ -194,25 +175,6 @@ Arduino, ESP32, C++ e integração entre software e hardware.
 
 <div align="center">
 
-## KNOWLEDGE
+> *"Mesmo se juntarmos os pedaços de algo que se quebrou, isso nunca voltará a ser o que era."* >
 
-<br>
-
-```text
-Python
-████████████████░░░░ 80%
-
-Java
-████████████░░░░░░░░ 60%
-
-Lógica de Programação
-██████████████░░░░░░ 70%
-
-Eletrônica
-███████████████░░░░░ 75%
-
-Linux
-██████████████░░░░░░ 70%
-
-Sistemas Embarcados
-████████████░░░░░░░░ 60%
+</div>
